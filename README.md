@@ -1,3 +1,2 @@
-# Color-Picker
-
-https://www.youtube.com/watch?v=Sg-OpIKOsds
+# Color Picker
+https://labpa.github.io/Color-Picker/
